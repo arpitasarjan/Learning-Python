@@ -1,3 +1,4 @@
+# for function
 def rem(l, Word):
     n =[]
     for item in l:
